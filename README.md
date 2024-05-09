@@ -12,7 +12,7 @@ This project is an E-Commerce platform developed using PHP for the backend logic
 
 ## Technologies Used
 - HTML , CSS , JS
-- BOOTStrap
+- bootstrap
 - PHP
 - MY SQL DB
 - payment processing
